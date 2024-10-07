@@ -7,7 +7,7 @@ Los objetivos de esta práctica son que el alumnado:
 * Sea capaz de resolver problemas sencillos en C++ usando todos los conocimientos adquiridos
   hasta ahora, y en particular haciendo uso de sentencias alternativas y de iteración
 * Conozca la herramienta `make` y que sea capaz de configurar ficheros `Makefile` sencillos
-  para la automatización de la compilación de sus ejercicios.
+  para la automatización de la compilación de sus programas.
 
 ### Rúbrica de evaluacion de esta práctica
 Se señalan a continuación los aspectos más relevantes (la lista no es exhaustiva) que se tendrán en cuenta a la hora de evaluar esta práctica.
