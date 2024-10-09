@@ -5,7 +5,7 @@
 ### Objetivos
 Los objetivos de esta práctica son que el alumnado:
 * Sea capaz de resolver problemas sencillos en C++ usando todos los conocimientos adquiridos
-  hasta ahora, y en particular haciendo uso de sentencias alternativas y de iteración
+  hasta ahora, y en particular haciendo uso de sentencias alternativas y de iteración.
 * Conozca la herramienta `make` y que sea capaz de configurar ficheros `Makefile` sencillos
   para la automatización de la compilación de sus programas.
 
@@ -28,8 +28,7 @@ Recuerde que para cada práctica tiene que entregar:
 Sí ha de esperar a la sesión de evaluación para subir el fichero .tar.gz conteniendo sus programas.
 
 ### La utilidad `make`
-Hasta ahora en la asignatura se han compilado los programas que se desarrollan de forma manual, invocando al
-compilador con un comando como
+Hasta ahora en la asignatura se han compilado los programas de forma manual, invocando al compilador con un comando como
 ```
 $ g++ -std=c++17 -Wall -o hello_world hello_world.cc
 ```
@@ -56,7 +55,7 @@ tutorial.
 
 Prosiga su estudio a continuación con las transparencias de clase 
 [Make
-utility](https://docs.google.com/presentation/d/1lYXrFHkka5VPkVukszQZq3VS9LNS5TOrA5m8fgkoQJQ/edit?usp=sharing).
+utility](https://docs.google.com/presentation/d/1xz1u_k-UTZ831cVtIMBi4Pm3STEQ_sXy0wDe6dzIQmY/edit?usp=sharing).
 
 Estudie por último el tutorial 
 [A Simple Makefile Tutorial](https://cs.colby.edu/maxwell/courses/tutorials/maketutor/).
