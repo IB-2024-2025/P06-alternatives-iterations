@@ -49,7 +49,7 @@ y reproduciendo en su máquina virtual y entendiendo cada uno de los ejemplos.
 Estudie solamente hasta el apartado *Static Pattern Rules* del tutorial.
 En 
 [este
-directorio](https://github.com/IB-2023-2024/IB-class-code-examples/tree/master/IntroductionToC%2B%2B/make_tutorial2)
+directorio](https://github.com/IB-2024-2025/IB-class-code-examples/tree/master/IntroductionToC%2B%2B/make_tutorial2)
 del repositorio de programas que acompañan a las transparencias de clase puede encontrar los ejercicios de ese
 tutorial.
 
@@ -63,7 +63,7 @@ En ese tutorial se utiliza el compilador `gcc`, pero puede Ud. sustituirlo por `
 de C++ compila igualmente el código en C (como se ha explicado, C++ es un superconjunto de C).
 En 
 [este
-directorio](https://github.com/IB-2023-2024/IB-class-code-examples/tree/master/IntroductionToC%2B%2B/make_tutorial)
+directorio](https://github.com/IB-2024-2025/IB-class-code-examples/tree/master/IntroductionToC%2B%2B/make_tutorial)
 del repositorio de programas que acompañan a las transparencias de clase puede encontrar los ejercicios de ese
 tutorial, adaptados al compilador `g++`.
 
@@ -86,7 +86,7 @@ de los cuales, los dos primeros compilan el correspondiente código fuente gener
 
 Estudie cuidadosamente las explicaciones de ese tutorial.
 En el
-[directorio](https://github.com/IB-2023-2024/IB-class-code-examples/tree/master/IntroductionToC%2B%2B/make_tutorial)
+[directorio](https://github.com/IB-2024-2025/IB-class-code-examples/tree/master/IntroductionToC%2B%2B/make_tutorial)
 puede hallar las 5 versiones del fichero `Makefile` que se estudian en ese tutorial.
 Para utilizar (por ejemplo) el fichero Makefile.2 ejecute el comando
 ```
@@ -99,7 +99,7 @@ make
 ```
 
 Para finalizar, en el directorio `make-example` que ha recibido Ud. con esta práctica puede estudiar un fichero
-[Makefile](https://github.com/IB-2023-2024/P06-alternatives-iterations/blob/main/make-example/Makefile)
+[Makefile](https://github.com/IB-2024-2025/P06-alternatives-iterations/blob/main/make-example/Makefile)
 que se utiliza para compilar el programa `dni.cc`
 Ese fichero `Makefile` contiene comentarios indicando la finalidad de cada una de las líneas que figuran en el
 mismo.
